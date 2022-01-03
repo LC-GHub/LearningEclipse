@@ -1,6 +1,6 @@
 package helloworld;
 
-class Calc //this is like a blueprint
+class Calcxxx //this is like a blueprint
 {
 	int num1;
 	int num2;
